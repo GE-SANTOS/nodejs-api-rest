@@ -15,5 +15,8 @@
     "url": "https://github.com/GE-SANTOS/nodejs-api-rest/issues"
   },
   "homepage": "https://github.com/GE-SANTOS/nodejs-api-rest#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
 }
