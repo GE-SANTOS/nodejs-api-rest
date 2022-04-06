@@ -1,11 +1,19 @@
 {
   "name": "projeto-nodejs-rest",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Geovane Santos",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GE-SANTOS/nodejs-api-rest.git"
+  },
+  "bugs": {
+    "url": "https://github.com/GE-SANTOS/nodejs-api-rest/issues"
+  },
+  "homepage": "https://github.com/GE-SANTOS/nodejs-api-rest#readme",
+  "description": ""
 }
